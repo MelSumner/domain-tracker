@@ -1,5 +1,7 @@
 # domain-tracker
-Tracking domains I own and their intended use. 
+Tracking domains I own and their intended use. If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCode) and want to turn one of these ideas into reality, please file an issue that includes a way for me to contact you.
+
+## Domains
 
 - a11yfor.dev
   - intended to be a developer-first guide to accessibility.
