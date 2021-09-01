@@ -1,2 +1,34 @@
 # domain-tracker
-Tracking domains I own and what their intended use was. 
+Tracking domains I own and their intended use. 
+
+- a11yfor.dev 
+- allthingsa11y.com
+- allthingsa11y.dev
+- best-practice.tech
+- candidcoder.dev
+- computerpeopleforpeace.com
+- computerpeopleforpeace.org
+- continuousa11y.com
+- continuousaccessibility.com
+- dotthen.dev
+- humanelement.dev
+- justlikethephotos.dev
+- localhostdot.com
+- melconf.com
+- mylearningjourney.dev
+- murderjs.com
+- psaforhumanity.com
+- puffywhitecloud.com
+- rottentypematoes.com
+- rss-tricks.com
+- shiftleftpodcast.dev
+- simpleraffle.app
+- surveysfor.dev
+- tech-horoscope.com
+- tech-survey.dev
+- thecodejanitors.com
+- thehumanelement.dev
+- thestateofa11y.com
+- thewebwewantto.dev
+- verifiedtechteachers.com
+- wwwdotcomdot.com
