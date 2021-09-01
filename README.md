@@ -15,8 +15,8 @@ Tracking domains I own and their intended use.
   - A book I intend to write
 - dotthen.dev
   - I don't remember. Maybe a joke? Maybe re: promises? 
-- humanelement.dev
-  - The podcast I will do someday. Unless someone else does it first
+- humanelement.dev / thehumanelement.dev
+  - The podcast I will do someday
 - justlikethephotos.dev
   - Tracks travel accommodations and compares them to the photos they use for advertising
 - localhostdot.com
@@ -26,7 +26,7 @@ Tracking domains I own and their intended use.
 - mylearningjourney.dev
   - intended to document my own learning journey, and provide a template for others to use to create their own learning journey
 - murderjs.com
-  - this is my someday fork of ember.js (when it gets too much like React I will make my own framework)
+  - this is my someday fork of ember.js (when it gets too much like React I will make my own framework) with crows-as-a-mascot
 - psaforhumanity.com
   - people were doing really dumb shit when I bought this domain. IDK what to use it for now 
 - puffywhitecloud.com
@@ -39,15 +39,16 @@ Tracking domains I own and their intended use.
   - Another URL, another podcast that might have been 
 - simpleraffle.app
   - there isn't a really simple one, can you believe that?
-- surveysfor.dev
+- surveysfor.dev / tech-survey.dev
   - a place to aggregate surveys for developers and post your own   
 - tech-horoscope.com
   - I found some cool graphics for this and thought that it might be a fun thing to do, but I am not very good at design
-- tech-survey.dev
 - thecodejanitors.com
-- thehumanelement.dev
+  - people who you can hire to clean up your code, and you can search by specialty. 
 - thestateofa11y.com
+  - probably what it says on the tin
 - thewebwewantto.dev
+  - I wanted to track the way we thought things were gonna go when we first started writing code for the web, and do some visualization on the kind of websites we imagined having
 - verifiedtechteachers.com
   - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
 - wwwdotcomdot.com
