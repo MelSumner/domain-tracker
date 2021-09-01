@@ -1,34 +1,54 @@
 # domain-tracker
 Tracking domains I own and their intended use. 
 
-- a11yfor.dev 
-- allthingsa11y.com
-- allthingsa11y.dev
+- a11yfor.dev
+  - intended to be a developer-first guide to accessibility.
+- allthingsa11y.com / allthingsa11y.dev
+  - should just forward to https://www.a11yproject.com/
 - best-practice.tech
+  - wanted a place to track best practices over time, could be a neat visualization for how long something stays a best practice
 - candidcoder.dev
-- computerpeopleforpeace.com
-- computerpeopleforpeace.org
-- continuousa11y.com
-- continuousaccessibility.com
+  - a url for a blog someone thought I should write.
+- computerpeopleforpeace.com / computerpeopleforpeace.org
+  - briefly considered starting a non-profit
+- continuousa11y.com / continuousaccessibility.com
+  - A book I intend to write
 - dotthen.dev
+  - I don't remember. Maybe a joke? Maybe re: promises? 
 - humanelement.dev
+  - The podcast I will do someday. Unless someone else does it first
 - justlikethephotos.dev
+  - Tracks travel accommodations and compares them to the photos they use for advertising
 - localhostdot.com
+  - I thought it was a funny idea. Probably got it from listening to ShopTalkShow
 - melconf.com
+  - I finally know enough Mel/Melanie developers that we could have our own conference
 - mylearningjourney.dev
+  - intended to document my own learning journey, and provide a template for others to use to create their own learning journey
 - murderjs.com
+  - this is my someday fork of ember.js (when it gets too much like React I will make my own framework)
 - psaforhumanity.com
+  - people were doing really dumb shit when I bought this domain. IDK what to use it for now 
 - puffywhitecloud.com
+  - When my husband was a small boy, he wrote a story about a puffy white cloud, and I imagined making a CSS-only version of a puffy white cloud floating across the screen and occasionally encountering pleasant things
 - rottentypematoes.com
+  - this was going to be a site where you could rate fonts
 - rss-tricks.com
+  - this is ShopTalkShow's fault
 - shiftleftpodcast.dev
+  - Another URL, another podcast that might have been 
 - simpleraffle.app
+  - there isn't a really simple one, can you believe that?
 - surveysfor.dev
+  - a place to aggregate surveys for developers and post your own   
 - tech-horoscope.com
+  - I found some cool graphics for this and thought that it might be a fun thing to do, but I am not very good at design
 - tech-survey.dev
 - thecodejanitors.com
 - thehumanelement.dev
 - thestateofa11y.com
 - thewebwewantto.dev
 - verifiedtechteachers.com
+  - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
 - wwwdotcomdot.com
+  - seemed funny at the time.
