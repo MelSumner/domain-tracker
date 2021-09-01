@@ -34,7 +34,7 @@ Tracking domains I own and their intended use. If you are a developer from [Vets
 - puffywhitecloud.com
   - When my husband was a small boy, he wrote a story about a puffy white cloud, and I imagined making a CSS-only version of a puffy white cloud floating across the screen and occasionally encountering pleasant things
 - rottentypematoes.com
-  - this was going to be a site where you could rate fonts
+  - this was going to be a site where you could rate fonts and also submit fonts to be rated
 - rss-tricks.com
   - this is ShopTalkShow's fault
 - shiftleftpodcast.dev
@@ -54,4 +54,4 @@ Tracking domains I own and their intended use. If you are a developer from [Vets
 - verifiedtechteachers.com
   - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
 - wwwdotcomdot.com
-  - seemed funny at the time.
+  - seemed funny at the time
