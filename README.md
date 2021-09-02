@@ -57,19 +57,19 @@ Tracking domains I own and their intended use. If you are a developer from [Vets
   - seemed funny at the time
 
 ## Projects in flight
-- melanie.codes
-  - my personal website [repo]()
-- a11y-automation.dev
-  -  an open-source project; tracks available linting and testing automation for accessibility violations [repo](https://github.com/MelSumner/a11y-automation)
-- thezen.dev
-  - an open-source project to help developers stay zen [repo](https://github.com/the-zen-dev/thezendevapp)
+- [melanie.codes](https://melanie.codes)
+  - my personal website ([repo](https://github.com/MelSumner/melsumner-website))
+- [a11y-automation.dev](https://a11y-automation.dev)
+  -  an open-source project; tracks available linting and testing automation for accessibility violations ([repo](https://github.com/MelSumner/a11y-automation))
+- [thezen.dev](https://thezen.dev)
+  - an open-source project to help developers stay zen ([repo](https://github.com/the-zen-dev/thezendevapp))
 - whyember.com
   - a site to talk about the positive aspects of using Ember, use cases, etc. (Coming soon)
-- ember-component-patterns.dev [repo](https://github.com/ember-components/ember-component-patterns)
-  - a site that intends to show component patterns and talk about the why and how
+- [ember-component-patterns.dev](https://ember-component-patterns.dev/) ([repo](https://github.com/ember-components/ember-component-patterns))
+  - an open-source project; intends to show component patterns and talk about the why and how
 - skwod.dev
   - in-progress; intended to be a place where women in tech can support each other
-- isbleachsafetodrink.com
+- [isbleachsafetodrink.com](https://isbleachsafetodrink.com/)
   - just seemed like it needed to exist
 - melanie.run
-  - my own little URL shortner (forked from [Cassidoo](https://github.com/cassidoo/cass.run)) [repo](https://github.com/MelSumner/melanie.run)
+  - my own little URL shortner, forked from [Cassidoo](https://github.com/cassidoo/cass.run) ([repo](https://github.com/MelSumner/melanie.run))
