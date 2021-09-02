@@ -1,7 +1,7 @@
 # domain-tracker
 Tracking domains I own and their intended use. If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCode) and want to turn one of these ideas into reality, please file an issue that includes a way for me to contact you.
 
-## Domains
+## Projects todo
 
 - a11yfor.dev
   - intended to be a developer-first guide to accessibility.
@@ -42,7 +42,7 @@ Tracking domains I own and their intended use. If you are a developer from [Vets
 - simpleraffle.app
   - there isn't a really simple one, can you believe that?
 - surveysfor.dev / tech-survey.dev
-  - a place to aggregate surveys for developers and post your own   
+  - a place to aggregate surveys for developers and post your own accessible surveys  
 - tech-horoscope.com
   - I found some cool graphics for this and thought that it might be a fun thing to do, but I am not very good at design
 - thecodejanitors.com
@@ -55,3 +55,11 @@ Tracking domains I own and their intended use. If you are a developer from [Vets
   - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
 - wwwdotcomdot.com
   - seemed funny at the time
+
+## Projects in flight
+- melanie.codes
+  - my personal website
+- a11y-automation.dev
+  - tracks available linting and testing automation for accessibility violations
+- thezen.dev
+  - to help developers stay zen
