@@ -62,6 +62,10 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
 
 - [verifiedtechteachers.com](https://www.verifiedtechteachers.com/)
   - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
+- [ember-component-patterns.dev](https://ember-component-patterns.dev/) ([repo](https://github.com/ember-components/ember-component-patterns))
+  - an open-source project; intends to show component patterns and talk about the why and how
+- [ember-a11y-for.dev](https://ember-a11y-for.dev/)
+  - A project to show how to make an accessible Ember application from start to finish 
 
 ## Shipped
 - [melanie.codes](https://melanie.codes)
@@ -72,8 +76,6 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
   - an open-source project to help developers stay zen ([repo](https://github.com/the-zen-dev/thezendevapp))
 - [whyember.com](https://whyember.com/)
   - a site to talk about the positive aspects of using Ember, use cases, etc. 
-- [ember-component-patterns.dev](https://ember-component-patterns.dev/) ([repo](https://github.com/ember-components/ember-component-patterns))
-  - an open-source project; intends to show component patterns and talk about the why and how
 - [isbleachsafetodrink.com](https://isbleachsafetodrink.com/)
   - just seemed like it needed to exist
 - melanie.run
