@@ -75,3 +75,4 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
   - just seemed like it needed to exist
 - melanie.run
   - my own little URL shortner, forked from [Cassidoo](https://github.com/cassidoo/cass.run) ([repo](https://github.com/MelSumner/melanie.run))
+  - [pleasefunda11y.com](https://pleasefunda11y.com/) provides a cheatsheet for when you need to show someone a concise list of areas where they could fund accessibility work
