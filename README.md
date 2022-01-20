@@ -43,6 +43,8 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
   - Another URL, another podcast that might have been 
 - simpleraffle.app
   - there isn't a really simple one, can you believe that?
+- skwod.dev
+  - intended to be a place where women in tech can support each other
 - surveysfor.dev / tech-survey.dev
   - a place to aggregate surveys for developers and post your own accessible surveys  
 - tech-horoscope.com
@@ -53,12 +55,15 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
   - probably what it says on the tin
 - thewebwewantto.dev
   - I wanted to track the way we thought things were gonna go when we first started writing code for the web, and do some visualization on the kind of websites we imagined having
-- verifiedtechteachers.com
-  - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
 - wwwdotcomdot.com
   - seemed funny at the time
 
-## Projects in flight
+## Work In Progress
+
+- [verifiedtechteachers.com](https://www.verifiedtechteachers.com/)
+  - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
+
+## Shipped
 - [melanie.codes](https://melanie.codes)
   - my personal website ([repo](https://github.com/MelSumner/melsumner-website))
 - [a11y-automation.dev](https://a11y-automation.dev)
@@ -69,8 +74,6 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
   - a site to talk about the positive aspects of using Ember, use cases, etc. 
 - [ember-component-patterns.dev](https://ember-component-patterns.dev/) ([repo](https://github.com/ember-components/ember-component-patterns))
   - an open-source project; intends to show component patterns and talk about the why and how
-- skwod.dev
-  - in-progress; intended to be a place where women in tech can support each other
 - [isbleachsafetodrink.com](https://isbleachsafetodrink.com/)
   - just seemed like it needed to exist
 - melanie.run
