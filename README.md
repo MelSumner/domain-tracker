@@ -65,8 +65,8 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
   -  an open-source project; tracks available linting and testing automation for accessibility violations ([repo](https://github.com/MelSumner/a11y-automation))
 - [thezen.dev](https://thezen.dev)
   - an open-source project to help developers stay zen ([repo](https://github.com/the-zen-dev/thezendevapp))
-- whyember.com
-  - a site to talk about the positive aspects of using Ember, use cases, etc. (Coming soon)
+- [whyember.com](https://whyember.com/)
+  - a site to talk about the positive aspects of using Ember, use cases, etc. 
 - [ember-component-patterns.dev](https://ember-component-patterns.dev/) ([repo](https://github.com/ember-components/ember-component-patterns))
   - an open-source project; intends to show component patterns and talk about the why and how
 - skwod.dev
@@ -75,4 +75,5 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
   - just seemed like it needed to exist
 - melanie.run
   - my own little URL shortner, forked from [Cassidoo](https://github.com/cassidoo/cass.run) ([repo](https://github.com/MelSumner/melanie.run))
-  - [pleasefunda11y.com](https://pleasefunda11y.com/) provides a cheatsheet for when you need to show someone a concise list of areas where they could fund accessibility work
+- [pleasefunda11y.com](https://pleasefunda11y.com/) 
+  - provides a cheatsheet for when you need to show someone a concise list of areas where they could fund accessibility work
