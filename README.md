@@ -6,10 +6,6 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
 
 - a11yfor.dev
   - intended to be a developer-first guide to accessibility.
-- best-practice.tech
-  - wanted a place to track best practices over time, could be a neat visualization for how long something stays a best practice
-- candidcoder.dev
-  - a url for a blog someone thought I should write.
 - computerpeopleforpeace.com / computerpeopleforpeace.org
   - briefly considered starting a non-profit
 - continuousa11y.com / continuousaccessibility.com
