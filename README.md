@@ -1,14 +1,11 @@
-# domain-tracker
-Tracking domains I own and their intended use. 
+# Melanie's Domain Tracker
 
-Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCode) and want to turn one of these ideas into reality, please file an issue that includes a way for me to contact you.
+Goal: Track domains I own and their intended use. I created this to keep me honest when I noticed that I owned a lot of domains but wasn't shipping anything. Hopefully over time the "todo" list will get smaller (either I will ship the project or not renew the domain name) and the "shipped" list will get bigger! 
 
 ## Projects todo
 
 - a11yfor.dev
   - intended to be a developer-first guide to accessibility.
-- allthingsa11y.com / allthingsa11y.dev
-  - should just forward to https://www.a11yproject.com/
 - best-practice.tech
   - wanted a place to track best practices over time, could be a neat visualization for how long something stays a best practice
 - candidcoder.dev
@@ -37,10 +34,6 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
   - When my husband was a small boy, he wrote a story about a puffy white cloud, and I imagined making a CSS-only version of a puffy white cloud floating across the screen and occasionally encountering pleasant things
 - rottentypematoes.com
   - this was going to be a site where you could rate fonts and also submit fonts to be rated
-- rss-tricks.com
-  - this is ShopTalkShow's fault
-- shiftleftpodcast.dev
-  - Another URL, another podcast that might have been 
 - simpleraffle.app
   - there isn't a really simple one, can you believe that?
 - skwod.dev
@@ -60,12 +53,14 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
 
 ## Work In Progress
 
-- [verifiedtechteachers.com](https://www.verifiedtechteachers.com/)
+- (on hold) [verifiedtechteachers.com](https://www.verifiedtechteachers.com/)
   - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
-- [ember-component-patterns.dev](https://ember-component-patterns.dev/) ([repo](https://github.com/ember-components/ember-component-patterns))
+- (on hold) [ember-component-patterns.dev](https://ember-component-patterns.dev/) ([repo](https://github.com/ember-components/ember-component-patterns))
   - an open-source project; intends to show component patterns and talk about the why and how
-- [ember-a11y-for.dev](https://ember-a11y-for.dev/)
-  - A project to show how to make an accessible Ember application from start to finish 
+- (on hold)[ember-a11y-for.dev](https://ember-a11y-for.dev/)
+  - A project to show how to make an accessible Ember application from start to finish
+- shiftleftpodcast.dev
+  - a podcast called Shift Left, focused on practical accessibility for digital products. Coming soon!
 
 ## Shipped
 - [melanie.codes](https://melanie.codes)
@@ -83,4 +78,10 @@ Note: If you are a developer from [Vets Who Code](https://twitter.com/VetsWhoCod
 - [pleasefunda11y.com](https://pleasefunda11y.com/) 
   - provides a cheatsheet for when you need to show someone a concise list of areas where they could fund accessibility work
 - [a11y-intro.com](https://a11y-intro.com/)
-  - What is accessibility?
+  - What is accessibility? Also I accidentally once posted a link to [a11y-info.com](https://a11y-info.com) bought it and made it permanently forward to the correct thing. 🤦
+- [rss-tricks.com](https://rss-tricks.com)
+  - this is ShopTalkShow's fault but then the Discord made it a real thing!
+- [collective-nouns.dev](https://collective-nouns.dev/)
+  - also because of the Discord.
+- [modern-a11y.com](https://www.modern-a11y.com/)
+  - Modern Accessibility, LLC.  
