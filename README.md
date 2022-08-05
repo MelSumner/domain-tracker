@@ -30,6 +30,8 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
   - When my husband was a small boy, he wrote a story about a puffy white cloud, and I imagined making a CSS-only version of a puffy white cloud floating across the screen and occasionally encountering pleasant things
 - rottentypematoes.com
   - this was going to be a site where you could rate fonts and also submit fonts to be rated
+- servemesoftly.io
+  - a website to locate the nearest location that sells soft serve ice cream
 - simpleraffle.app
   - there isn't a really simple one, can you believe that?
 - tech-horoscope.com
