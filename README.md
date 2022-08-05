@@ -53,8 +53,8 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
   - an open-source project; intends to show component patterns and talk about the why and how
 - (on hold)[ember-a11y-for.dev](https://ember-a11y-for.dev/)
   - A project to show how to make an accessible Ember application from start to finish
-- shiftleftpodcast.dev
-  - a podcast called Shift Left, focused on practical accessibility for digital products. Coming soon!
+- sensiblea11y.com
+  - a podcast called Sensible Accessibility, focused on practical accessibility for digital products. Coming soon!
 
 ## Shipped
 - [melanie.codes](https://melanie.codes)
