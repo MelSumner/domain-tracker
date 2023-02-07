@@ -44,17 +44,19 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
   - I wanted to track the way we thought things were gonna go when we first started writing code for the web, and do some visualization on the kind of websites we imagined having
 - wwwdotcomdot.com
   - seemed funny at the time
+- verifiedtechteachers.com
+  - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
 
 ## Work In Progress
 
-- (on hold) [verifiedtechteachers.com](https://www.verifiedtechteachers.com/)
-  - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
 - (on hold) [ember-component-patterns.dev](https://ember-component-patterns.dev/) ([repo](https://github.com/ember-components/ember-component-patterns))
   - an open-source project; intends to show component patterns and talk about the why and how
 - (on hold)[ember-a11y-for.dev](https://ember-a11y-for.dev/)
   - A project to show how to make an accessible Ember application from start to finish
 - sensiblea11y.com
   - a podcast called Sensible Accessibility, focused on practical accessibility for digital products. Coming soon!
+- [ember-sample-apps.com](https://ember-sample-apps.com/)
+  - a collection of micro apps that just do one thing, intended to make learning easier.
 
 ## Shipped
 - [melanie.codes](https://melanie.codes)
