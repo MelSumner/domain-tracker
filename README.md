@@ -8,8 +8,6 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
   - intended to be a developer-first guide to accessibility.
 - computerpeopleforpeace.com / computerpeopleforpeace.org
   - briefly considered starting a non-profit
-- continuousa11y.com / continuousaccessibility.com
-  - A book I intend to write
 - dotthen.dev
   - I don't remember. Maybe a joke? Maybe re: promises? 
 - humanelement.dev / thehumanelement.dev
@@ -55,8 +53,8 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
   - A project to show how to make an accessible Ember application from start to finish
 - sensiblea11y.com
   - a podcast called Sensible Accessibility, focused on practical accessibility for digital products. Coming soon!
-- [ember-sample-apps.com](https://ember-sample-apps.com/)
-  - a collection of micro apps that just do one thing, intended to make learning easier.
+- continuousa11y.com / continuousaccessibility.com
+  - I've been talking about it since 2018. Time to ship a site! 
 
 ## Shipped
 - [melanie.codes](https://melanie.codes)
@@ -83,5 +81,7 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
   - also because of the Discord.
 - [areyousureyouneedamodal.com](https://areyousureyouneedamodal.com/)
   - look, someone had to say it.
+- [ember-sample-apps.com](https://ember-sample-apps.com/)
+  - a collection of micro apps that just do one thing, intended to make learning easier.
 - [modern-a11y.com](https://www.modern-a11y.com/)
   - Modern Accessibility, LLC.
