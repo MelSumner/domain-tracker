@@ -59,10 +59,12 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
 ## Shipped
 - [melanie.codes](https://melanie.codes)
   - my personal website ([repo](https://github.com/MelSumner/melsumner-website))
+- [continuousaccessibility.com](https://continuousaccessibility.com/)
+  - my concept for accessibility automation and metrics 
 - [a11y-automation.dev](https://a11y-automation.dev)
   -  an open-source project; tracks available linting and testing automation for accessibility violations ([repo](https://github.com/MelSumner/a11y-automation))
 - [learntodev.info](https://learntodev.info)
-  - an open-source project that helps folks learn where to learn!
+  - an open-source project that helps folks learn where to learn! 
 - [thezen.dev](https://thezen.dev)
   - an open-source project to help developers stay zen ([repo](https://github.com/the-zen-dev/thezendevapp))
 - [whyember.com](https://whyember.com/)
@@ -83,5 +85,7 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
   - look, someone had to say it.
 - [ember-sample-apps.com](https://ember-sample-apps.com/)
   - a collection of micro apps that just do one thing, intended to make learning easier.
+- [ember-a11y-for.dev](https://ember-a11y-for.dev)
+  - supported a talk I gave one time, intended to give Ember developers some pointers on accessibility in their favorite JS framework. 
 - [modern-a11y.com](https://www.modern-a11y.com/)
   - Modern Accessibility, LLC.
