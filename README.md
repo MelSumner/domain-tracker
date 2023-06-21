@@ -47,20 +47,12 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
 
 ## Work In Progress
 
-- (on hold) [ember-component-patterns.dev](https://ember-component-patterns.dev/) ([repo](https://github.com/ember-components/ember-component-patterns))
-  - an open-source project; intends to show component patterns and talk about the why and how
-- (on hold)[ember-a11y-for.dev](https://ember-a11y-for.dev/)
-  - A project to show how to make an accessible Ember application from start to finish
-- sensiblea11y.com
-  - a podcast called Sensible Accessibility, focused on practical accessibility for digital products. Coming soon!
-- continuousa11y.com / continuousaccessibility.com
-  - I've been talking about it since 2018. Time to ship a site! 
+- [continuousaccessibility.com](https://continuousaccessibility.com/)
+  - my concept for accessibility automation and metrics 
 
 ## Shipped
 - [melanie.codes](https://melanie.codes)
   - my personal website ([repo](https://github.com/MelSumner/melsumner-website))
-- [continuousaccessibility.com](https://continuousaccessibility.com/)
-  - my concept for accessibility automation and metrics 
 - [a11y-automation.dev](https://a11y-automation.dev)
   -  an open-source project; tracks available linting and testing automation for accessibility violations ([repo](https://github.com/MelSumner/a11y-automation))
 - [learntodev.info](https://learntodev.info)
