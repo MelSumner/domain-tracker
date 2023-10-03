@@ -3,15 +3,12 @@
 Goal: Track domains I own and their intended use. I created this to keep me honest when I noticed that I owned a lot of domains but wasn't shipping anything. Hopefully over time the "todo" list will get smaller (either I will ship the project or not renew the domain name) and the "shipped" list will get bigger! 
 
 ## Projects todo
-
-- a11yfor.dev
-  - intended to be a developer-first guide to accessibility.
-- computerpeopleforpeace.com / computerpeopleforpeace.org
-  - briefly considered starting a non-profit
+- best-practice.tech
+  - instead of "can I use" more like "should I use"
 - dotthen.dev
-  - I don't remember. Maybe a joke? Maybe re: promises? 
-- humanelement.dev / thehumanelement.dev
-  - The podcast I will do someday
+  - I don't remember. Maybe a joke? Maybe re: promises?
+- happylittlepuzzles.io
+  - Like Bob Ross but for puzzles.
 - justlikethephotos.dev
   - Tracks travel accommodations and compares them to the photos they use for advertising
 - localhostdot.com
@@ -32,18 +29,28 @@ Goal: Track domains I own and their intended use. I created this to keep me hone
   - a website to locate the nearest location that sells soft serve ice cream
 - simpleraffle.app
   - there isn't a really simple one, can you believe that?
+- sumnerfamily.info
+  - family geneology website
+- tanoshii.dev
+  - it's the future name of my design system. maybe.
 - tech-horoscope.com
   - I found some cool graphics for this and thought that it might be a fun thing to do, but I am not very good at design
 - thecodejanitors.com
   - people who you can hire to clean up your code, and you can search by specialty. 
-- thestateofa11y.com
-  - probably what it says on the tin
 - thewebwewantto.dev
   - I wanted to track the way we thought things were gonna go when we first started writing code for the web, and do some visualization on the kind of websites we imagined having
 - wwwdotcomdot.com
   - seemed funny at the time
 - verifiedtechteachers.com
   - so many grifters out there. I wanted to make a site that had consistent standards for verifying the tech instructors worth your time and money
+ 
+### Potential Podcast domains
+I just can't make up my mind. 🤷
+
+- humanelement.dev / thehumanelement.dev
+  - The podcast I will do someday
+- sensiblea11y.com
+  - A pragmatic podcast about accessibility  
 
 ## Work In Progress
 
